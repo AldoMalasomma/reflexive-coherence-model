@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated RCM paper using the preferred citation below."
+title: "Reflexive Coherence Model"
+authors:
+  - family-names: Malasomma
+    given-names: "Aldo G."
+preferred-citation:
+  type: article
+  title: "The Reflexive Coherence Model: A Physico-Informational Framework for Consciousness"
+  authors:
+    - family-names: Malasomma
+      given-names: "Aldo G."
+  year: 2026
+  version: "1.2"
+  doi: "10.5281/zenodo.20106158"
+  date-released: 2026-05-09
+  publisher: Zenodo
